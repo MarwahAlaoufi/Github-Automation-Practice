@@ -23,9 +23,9 @@ public class MainPageTest extends BaseClass {
     }
 
     @Test (testName = "TS-002")
-    @Epic("Docs flow")
-    @Feature("Docs Feature")
-    @Story("User shall view documentaions")
+//    @Epic("Docs flow")
+//    @Feature("Docs Feature")
+//    @Story("User shall view documentaions")
     @Owner("Marwah")
     @Severity(SeverityLevel.CRITICAL)
     @Description("This is a method to verify that user is able to view and navigate to docs")
